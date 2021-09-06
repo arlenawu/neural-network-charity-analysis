@@ -3,11 +3,13 @@
 # Overview
 The purpose of this project is to develop a machine learning model for the investment company Alphabet Soup, to predict the likelihood of their applicants' success. The model is a neural network that uses the Tensorflow Keras library. An ideal target performance for the model would be an accuracy score of at least 0.9.
 
-The initial code and training attempt #0 can be found in this file linked here.
+-----------------------------------------
+
+The initial code and training attempt #0 can be found in this file linked below:
 
 [[Link to "AlphabetSoupCharity.ipynb"]](AlphabetSoupCharity.ipynb)
 
-The three subsequent training attempts can be found here.
+The three subsequent training attempts can be found below:
 
 [[Link to "AlphabetSoupCharity_Optimization_Attempts.ipynb"]](AlphabetSoupCharity_Optimization_Attempts.ipynb)
 
